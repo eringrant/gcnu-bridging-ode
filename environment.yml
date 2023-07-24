@@ -1,11 +1,11 @@
 name: nma-compneuro
 dependencies:
   - python=3.9
+  - jupyterlab
   - requests
   - numpy
   - scipy
   - matplotlib
   - scikit-learn
-  - pytorch
   - ipywidgets
   - pip
